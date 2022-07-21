@@ -1,0 +1,29 @@
+File extensions
+-----------------------------
+1)word------->.docx
+2)power point------>.ppt
+3)excel file------->.xlsx
+                  --------->.csv(comma seperated value)
+4)audio file -------->.mp3
+5)video file------->.mp4
+6)img file--------->.jpg,  .png,   .bmp
+---------------------------------------------------------
+text editors /IDE
+>python
+>spyder
+>pycharm
+>jupter notebook
+>subline
+>notepad
+>notepad++
+>atom
+>brackets
+>thonny
+------------------------------------------------------------
+online text editors
+>google collab
+>REPL(read-eval-print-loop)
+-----------------------------------------------------
+-----we store all the things in github
+-----we get the github from microsoft 
+
